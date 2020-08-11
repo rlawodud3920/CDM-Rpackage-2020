@@ -1,0 +1,5 @@
+atlasId,atlasName,cohortId,name
+340,metformin target new ssi (drug era)_30duration,340,metformin_target_new_ssi_drug_era_30duration
+328,metformin comparator new ssi (drug era),328,metformin_comparator_new_ssi_drug_era
+450,stomach cancer_0601,450,stomach_cancer_0601
+451,colon cancer_0601,451,colon_cancer_0601
