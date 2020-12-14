@@ -1,0 +1,892 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1112807,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1191",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Aspirin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1113143,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "246461",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Aspirin 100 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1113302,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "315424",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Aspirin 500 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Aspirin 500Á¦¿Ü ssi",
+      "id": 0
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 443392,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "363346000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Malignant neoplastic disease",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "malignant neoplasm ssi ",
+      "id": 1
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 9202,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OP",
+          "VOCABULARY_ID": "Visit",
+          "CONCEPT_NAME": "Outpatient Visit",
+          "DOMAIN_ID": "Visit",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Visit",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "outpatient visit",
+      "id": 2
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 1112807,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1191",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "Aspirin",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Ingredient",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "aspirin 0615",
+      "id": 4
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19039926,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "816346",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "dexlansoprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 904453,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "283742",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Esomeprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 929887,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17128",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "lansoprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 923645,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "7646",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Omeprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 948078,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "40790",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "pantoprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 911735,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "114979",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "rabeprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "ppi ssi",
+      "id": 5
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4265600,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "397825006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastric ulcer",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "gastric ulcer.jy",
+      "id": 6
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 200974,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "92756002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Carcinoma in situ of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443387,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "363349007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 197803,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109836006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Overlapping malignant neoplasm of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 193422,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93717002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of body of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432838,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93738008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of cardia of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435751,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93809003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of fundus of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437224,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93818001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of greater curvature of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434292,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93867004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of lesser curvature of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438089,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93976007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of pyloric antrum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 192255,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93977003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of pylorus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 196044,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "372014001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "stomach cancer ssi new ",
+      "id": 7
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 200974,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "92756002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Carcinoma in situ of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4095320,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "187742008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of body of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4094856,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "187732006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of cardia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4095319,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "187741001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of fundus of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4149838,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269460009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of greater curve of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4149837,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269459004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of lesser curve of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4092061,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "187740000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of pyloric antrum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4095317,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "187736009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of pylorus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443387,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "363349007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 197803,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109836006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Overlapping malignant neoplasm of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 196044,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "372014001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of stomach",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "SCY stomach cancer new",
+      "id": 8
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 997276,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2541",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Cimetidine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 953076,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4278",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Famotidine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 950696,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42319",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Nizatidine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19003317,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "104096",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Nizatidine 150 MG Oral Capsule [Axid]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 961047,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9143",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Ranitidine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "H2RA ssi",
+      "id": 9
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4203442,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "53442002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastrectomy",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Gastrectomy jy",
+      "id": 10
+    }
+  ],
+  "EndStrategy": {"CustomEra": {
+    "DrugCodesetId": 5,
+    "GapDays": 30,
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 365,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 8,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 1,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "w.o  stomach cancer",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ProcedureOccurrence": {
+            "ProcedureType": null,
+            "CorrelatedCriteria": null,
+            "CodesetId": 10,
+            "ProcedureSourceConcept": null,
+            "Quantity": null,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "ProcedureTypeExclude": false,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "Modifier": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 1,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "w.o Gastrectomy",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"DrugEra": {
+      "EraStartDate": null,
+      "CorrelatedCriteria": null,
+      "OccurrenceCount": null,
+      "AgeAtStart": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 18
+      },
+      "GapDays": null,
+      "CodesetId": 5,
+      "AgeAtEnd": null,
+      "First": null,
+      "Gender": null,
+      "EraLength": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 30
+      },
+      "EraEndDate": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 365
+    }
+  }
+}

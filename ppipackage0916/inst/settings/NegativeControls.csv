@@ -1,0 +1,91 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+608,609,378256,Abnormal reflex,outcome
+608,609,440424,Aphasia,outcome
+608,609,439237,Assault,outcome
+608,609,378424,Astigmatism,outcome
+608,609,261880,Atelectasis,outcome
+608,609,134118,Atrophic condition of skin,outcome
+608,609,4224118,Bladder dysfunction,outcome
+608,609,80509,Bone cyst,outcome
+608,609,434626,Borderline personality disorder,outcome
+608,609,438407,Bulimia nervosa,outcome
+608,609,134765,Cachexia,outcome
+608,609,4172458,Candidiasis of skin,outcome
+608,609,436740,Cervical incompetence,outcome
+608,609,381581,Chalazion,outcome
+608,609,4307254,Closed fracture,outcome
+608,609,4047787,Colles' fracture,outcome
+608,609,198075,Condyloma acuminatum,outcome
+608,609,73302,Curvature of spine,outcome
+608,609,4242416,Cutis laxa,outcome
+608,609,433163,Deficiency of macronutrients,outcome
+608,609,4047269,Deformity of foot,outcome
+608,609,133228,Dental caries,outcome
+608,609,4147672,Disease due to Papilloma virus,outcome
+608,609,4153380,Disorder of carotid artery,outcome
+608,609,4140510,Disorder of lymphatic vessel,outcome
+608,609,433440,Dysthymia,outcome
+608,609,376132,Ectropion,outcome
+608,609,440695,Encopresis,outcome
+608,609,438872,Excessive eating - polyphagia,outcome
+608,609,78804,Fibrocystic disease of breast,outcome
+608,609,4131595,Fracture of radius,outcome
+608,609,74855,Genital herpes simplex,outcome
+608,609,441788,Human papilloma virus infection,outcome
+608,609,76737,Hydrocele,outcome
+608,609,4029582,Hyperandrogenization syndrome,outcome
+608,609,195212,Hypercortisolism,outcome
+608,609,438134,Hypersomnia,outcome
+608,609,140362,Hypoparathyroidism,outcome
+608,609,4322737,Infection of tooth,outcome
+608,609,4207688,Infectious enteritis,outcome
+608,609,79072,Inflammatory disorder of breast,outcome
+608,609,139099,Ingrowing nail,outcome
+608,609,4288544,Inguinal hernia,outcome
+608,609,444191,Injury of face,outcome
+608,609,444130,Injury of foot,outcome
+608,609,134222,Injury of forearm,outcome
+608,609,4029966,Intracranial aneurysm,outcome
+608,609,437409,Intracranial injury,outcome
+608,609,4297984,Local infection of wound,outcome
+608,609,4018050,Localized infection,outcome
+608,609,439840,Lymphangitis,outcome
+608,609,4163232,Mastitis,outcome
+608,609,440389,Mental retardation,outcome
+608,609,436100,Narcolepsy,outcome
+608,609,4262178,Neurogenic dysfunction of the urinary bladder,outcome
+608,609,193874,Nocturnal enuresis,outcome
+608,609,4171549,Nodular goiter,outcome
+608,609,442274,Oligomenorrhea,outcome
+608,609,4215978,Onychomycosis,outcome
+608,609,4171915,Orchitis,outcome
+608,609,380731,Otitis externa,outcome
+608,609,378160,Otorrhea,outcome
+608,609,192606,Paraplegia,outcome
+608,609,253796,Pneumothorax,outcome
+608,609,195501,Polycystic ovaries,outcome
+608,609,4153877,Post-traumatic wound infection,outcome
+608,609,434319,Premature ejaculation,outcome
+608,609,373478,Presbyopia,outcome
+608,609,199876,Prolapse of female genital organs,outcome
+608,609,4295888,Prolapse of intestine,outcome
+608,609,194997,Prostatitis,outcome
+608,609,4146239,Pruritus of genital organs,outcome
+608,609,4285569,Pupillary disorder,outcome
+608,609,81336,Rectal prolapse,outcome
+608,609,380395,Retinal dystrophy,outcome
+608,609,141825,Simple goiter,outcome
+608,609,137054,Skin striae,outcome
+608,609,434630,Sleep-wake schedule disorder,outcome
+608,609,4195698,Tenosynovitis,outcome
+608,609,4339088,Testicular mass,outcome
+608,609,133141,Tinea pedis,outcome
+608,609,440814,Torticollis,outcome
+608,609,435140,Toxic effect of alcohol,outcome
+608,609,4270490,Tracheitis,outcome
+608,609,4028970,Tracheobronchitis,outcome
+608,609,193326,Urge incontinence of urine,outcome
+608,609,4092565,Uterine prolapse,outcome
+608,609,140641,Verruca vulgaris,outcome
+608,609,197036,Vesicoureteric reflux,outcome
+608,609,261326,Viral pneumonia,outcome
