@@ -1,0 +1,91 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+483,484,378256,Abnormal reflex,outcome
+483,484,440424,Aphasia,outcome
+483,484,439237,Assault,outcome
+483,484,378424,Astigmatism,outcome
+483,484,261880,Atelectasis,outcome
+483,484,134118,Atrophic condition of skin,outcome
+483,484,4224118,Bladder dysfunction,outcome
+483,484,80509,Bone cyst,outcome
+483,484,434626,Borderline personality disorder,outcome
+483,484,438407,Bulimia nervosa,outcome
+483,484,134765,Cachexia,outcome
+483,484,4172458,Candidiasis of skin,outcome
+483,484,436740,Cervical incompetence,outcome
+483,484,381581,Chalazion,outcome
+483,484,4307254,Closed fracture,outcome
+483,484,4047787,Colles' fracture,outcome
+483,484,198075,Condyloma acuminatum,outcome
+483,484,73302,Curvature of spine,outcome
+483,484,4242416,Cutis laxa,outcome
+483,484,433163,Deficiency of macronutrients,outcome
+483,484,4047269,Deformity of foot,outcome
+483,484,133228,Dental caries,outcome
+483,484,4147672,Disease due to Papilloma virus,outcome
+483,484,4153380,Disorder of carotid artery,outcome
+483,484,4140510,Disorder of lymphatic vessel,outcome
+483,484,433440,Dysthymia,outcome
+483,484,376132,Ectropion,outcome
+483,484,440695,Encopresis,outcome
+483,484,438872,Excessive eating - polyphagia,outcome
+483,484,78804,Fibrocystic disease of breast,outcome
+483,484,4131595,Fracture of radius,outcome
+483,484,74855,Genital herpes simplex,outcome
+483,484,441788,Human papilloma virus infection,outcome
+483,484,76737,Hydrocele,outcome
+483,484,4029582,Hyperandrogenization syndrome,outcome
+483,484,195212,Hypercortisolism,outcome
+483,484,438134,Hypersomnia,outcome
+483,484,140362,Hypoparathyroidism,outcome
+483,484,4322737,Infection of tooth,outcome
+483,484,4207688,Infectious enteritis,outcome
+483,484,79072,Inflammatory disorder of breast,outcome
+483,484,139099,Ingrowing nail,outcome
+483,484,4288544,Inguinal hernia,outcome
+483,484,444191,Injury of face,outcome
+483,484,444130,Injury of foot,outcome
+483,484,134222,Injury of forearm,outcome
+483,484,4029966,Intracranial aneurysm,outcome
+483,484,437409,Intracranial injury,outcome
+483,484,4297984,Local infection of wound,outcome
+483,484,4018050,Localized infection,outcome
+483,484,439840,Lymphangitis,outcome
+483,484,4163232,Mastitis,outcome
+483,484,440389,Mental retardation,outcome
+483,484,436100,Narcolepsy,outcome
+483,484,4262178,Neurogenic dysfunction of the urinary bladder,outcome
+483,484,193874,Nocturnal enuresis,outcome
+483,484,4171549,Nodular goiter,outcome
+483,484,442274,Oligomenorrhea,outcome
+483,484,4215978,Onychomycosis,outcome
+483,484,4171915,Orchitis,outcome
+483,484,380731,Otitis externa,outcome
+483,484,378160,Otorrhea,outcome
+483,484,192606,Paraplegia,outcome
+483,484,253796,Pneumothorax,outcome
+483,484,195501,Polycystic ovaries,outcome
+483,484,4153877,Post-traumatic wound infection,outcome
+483,484,434319,Premature ejaculation,outcome
+483,484,373478,Presbyopia,outcome
+483,484,199876,Prolapse of female genital organs,outcome
+483,484,4295888,Prolapse of intestine,outcome
+483,484,194997,Prostatitis,outcome
+483,484,4146239,Pruritus of genital organs,outcome
+483,484,4285569,Pupillary disorder,outcome
+483,484,81336,Rectal prolapse,outcome
+483,484,380395,Retinal dystrophy,outcome
+483,484,141825,Simple goiter,outcome
+483,484,137054,Skin striae,outcome
+483,484,434630,Sleep-wake schedule disorder,outcome
+483,484,4195698,Tenosynovitis,outcome
+483,484,4339088,Testicular mass,outcome
+483,484,133141,Tinea pedis,outcome
+483,484,440814,Torticollis,outcome
+483,484,435140,Toxic effect of alcohol,outcome
+483,484,4270490,Tracheitis,outcome
+483,484,4028970,Tracheobronchitis,outcome
+483,484,193326,Urge incontinence of urine,outcome
+483,484,4092565,Uterine prolapse,outcome
+483,484,140641,Verruca vulgaris,outcome
+483,484,197036,Vesicoureteric reflux,outcome
+483,484,261326,Viral pneumonia,outcome
