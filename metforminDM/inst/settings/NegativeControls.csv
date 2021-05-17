@@ -1,0 +1,91 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+499,498,378256,Abnormal reflex,outcome
+499,498,440424,Aphasia,outcome
+499,498,439237,Assault,outcome
+499,498,378424,Astigmatism,outcome
+499,498,261880,Atelectasis,outcome
+499,498,134118,Atrophic condition of skin,outcome
+499,498,4224118,Bladder dysfunction,outcome
+499,498,80509,Bone cyst,outcome
+499,498,434626,Borderline personality disorder,outcome
+499,498,438407,Bulimia nervosa,outcome
+499,498,134765,Cachexia,outcome
+499,498,4172458,Candidiasis of skin,outcome
+499,498,436740,Cervical incompetence,outcome
+499,498,381581,Chalazion,outcome
+499,498,4307254,Closed fracture,outcome
+499,498,4047787,Colles' fracture,outcome
+499,498,198075,Condyloma acuminatum,outcome
+499,498,73302,Curvature of spine,outcome
+499,498,4242416,Cutis laxa,outcome
+499,498,433163,Deficiency of macronutrients,outcome
+499,498,4047269,Deformity of foot,outcome
+499,498,133228,Dental caries,outcome
+499,498,4147672,Disease due to Papilloma virus,outcome
+499,498,4153380,Disorder of carotid artery,outcome
+499,498,4140510,Disorder of lymphatic vessel,outcome
+499,498,433440,Dysthymia,outcome
+499,498,376132,Ectropion,outcome
+499,498,440695,Encopresis,outcome
+499,498,438872,Excessive eating - polyphagia,outcome
+499,498,78804,Fibrocystic disease of breast,outcome
+499,498,4131595,Fracture of radius,outcome
+499,498,74855,Genital herpes simplex,outcome
+499,498,441788,Human papilloma virus infection,outcome
+499,498,76737,Hydrocele,outcome
+499,498,4029582,Hyperandrogenization syndrome,outcome
+499,498,195212,Hypercortisolism,outcome
+499,498,438134,Hypersomnia,outcome
+499,498,140362,Hypoparathyroidism,outcome
+499,498,4322737,Infection of tooth,outcome
+499,498,4207688,Infectious enteritis,outcome
+499,498,79072,Inflammatory disorder of breast,outcome
+499,498,139099,Ingrowing nail,outcome
+499,498,4288544,Inguinal hernia,outcome
+499,498,444191,Injury of face,outcome
+499,498,444130,Injury of foot,outcome
+499,498,134222,Injury of forearm,outcome
+499,498,4029966,Intracranial aneurysm,outcome
+499,498,437409,Intracranial injury,outcome
+499,498,4297984,Local infection of wound,outcome
+499,498,4018050,Localized infection,outcome
+499,498,439840,Lymphangitis,outcome
+499,498,4163232,Mastitis,outcome
+499,498,440389,Mental retardation,outcome
+499,498,436100,Narcolepsy,outcome
+499,498,4262178,Neurogenic dysfunction of the urinary bladder,outcome
+499,498,193874,Nocturnal enuresis,outcome
+499,498,4171549,Nodular goiter,outcome
+499,498,442274,Oligomenorrhea,outcome
+499,498,4215978,Onychomycosis,outcome
+499,498,4171915,Orchitis,outcome
+499,498,380731,Otitis externa,outcome
+499,498,378160,Otorrhea,outcome
+499,498,192606,Paraplegia,outcome
+499,498,253796,Pneumothorax,outcome
+499,498,195501,Polycystic ovaries,outcome
+499,498,4153877,Post-traumatic wound infection,outcome
+499,498,434319,Premature ejaculation,outcome
+499,498,373478,Presbyopia,outcome
+499,498,199876,Prolapse of female genital organs,outcome
+499,498,4295888,Prolapse of intestine,outcome
+499,498,194997,Prostatitis,outcome
+499,498,4146239,Pruritus of genital organs,outcome
+499,498,4285569,Pupillary disorder,outcome
+499,498,81336,Rectal prolapse,outcome
+499,498,380395,Retinal dystrophy,outcome
+499,498,141825,Simple goiter,outcome
+499,498,137054,Skin striae,outcome
+499,498,434630,Sleep-wake schedule disorder,outcome
+499,498,4195698,Tenosynovitis,outcome
+499,498,4339088,Testicular mass,outcome
+499,498,133141,Tinea pedis,outcome
+499,498,440814,Torticollis,outcome
+499,498,435140,Toxic effect of alcohol,outcome
+499,498,4270490,Tracheitis,outcome
+499,498,4028970,Tracheobronchitis,outcome
+499,498,193326,Urge incontinence of urine,outcome
+499,498,4092565,Uterine prolapse,outcome
+499,498,140641,Verruca vulgaris,outcome
+499,498,197036,Vesicoureteric reflux,outcome
+499,498,261326,Viral pneumonia,outcome
