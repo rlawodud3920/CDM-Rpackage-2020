@@ -1,0 +1,91 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+729,732,378256,Abnormal reflex,outcome
+729,732,440424,Aphasia,outcome
+729,732,439237,Assault,outcome
+729,732,378424,Astigmatism,outcome
+729,732,261880,Atelectasis,outcome
+729,732,134118,Atrophic condition of skin,outcome
+729,732,4224118,Bladder dysfunction,outcome
+729,732,80509,Bone cyst,outcome
+729,732,434626,Borderline personality disorder,outcome
+729,732,438407,Bulimia nervosa,outcome
+729,732,134765,Cachexia,outcome
+729,732,4172458,Candidiasis of skin,outcome
+729,732,436740,Cervical incompetence,outcome
+729,732,381581,Chalazion,outcome
+729,732,4307254,Closed fracture,outcome
+729,732,4047787,Colles' fracture,outcome
+729,732,198075,Condyloma acuminatum,outcome
+729,732,73302,Curvature of spine,outcome
+729,732,4242416,Cutis laxa,outcome
+729,732,433163,Deficiency of macronutrients,outcome
+729,732,4047269,Deformity of foot,outcome
+729,732,133228,Dental caries,outcome
+729,732,4147672,Disease due to Papilloma virus,outcome
+729,732,4153380,Disorder of carotid artery,outcome
+729,732,4140510,Disorder of lymphatic vessel,outcome
+729,732,433440,Dysthymia,outcome
+729,732,376132,Ectropion,outcome
+729,732,440695,Encopresis,outcome
+729,732,438872,Excessive eating - polyphagia,outcome
+729,732,78804,Fibrocystic disease of breast,outcome
+729,732,4131595,Fracture of radius,outcome
+729,732,74855,Genital herpes simplex,outcome
+729,732,441788,Human papilloma virus infection,outcome
+729,732,76737,Hydrocele,outcome
+729,732,4029582,Hyperandrogenization syndrome,outcome
+729,732,195212,Hypercortisolism,outcome
+729,732,438134,Hypersomnia,outcome
+729,732,140362,Hypoparathyroidism,outcome
+729,732,4322737,Infection of tooth,outcome
+729,732,4207688,Infectious enteritis,outcome
+729,732,79072,Inflammatory disorder of breast,outcome
+729,732,139099,Ingrowing nail,outcome
+729,732,4288544,Inguinal hernia,outcome
+729,732,444191,Injury of face,outcome
+729,732,444130,Injury of foot,outcome
+729,732,134222,Injury of forearm,outcome
+729,732,4029966,Intracranial aneurysm,outcome
+729,732,437409,Intracranial injury,outcome
+729,732,4297984,Local infection of wound,outcome
+729,732,4018050,Localized infection,outcome
+729,732,439840,Lymphangitis,outcome
+729,732,4163232,Mastitis,outcome
+729,732,440389,Mental retardation,outcome
+729,732,436100,Narcolepsy,outcome
+729,732,4262178,Neurogenic dysfunction of the urinary bladder,outcome
+729,732,193874,Nocturnal enuresis,outcome
+729,732,4171549,Nodular goiter,outcome
+729,732,442274,Oligomenorrhea,outcome
+729,732,4215978,Onychomycosis,outcome
+729,732,4171915,Orchitis,outcome
+729,732,380731,Otitis externa,outcome
+729,732,378160,Otorrhea,outcome
+729,732,192606,Paraplegia,outcome
+729,732,253796,Pneumothorax,outcome
+729,732,195501,Polycystic ovaries,outcome
+729,732,4153877,Post-traumatic wound infection,outcome
+729,732,434319,Premature ejaculation,outcome
+729,732,373478,Presbyopia,outcome
+729,732,199876,Prolapse of female genital organs,outcome
+729,732,4295888,Prolapse of intestine,outcome
+729,732,194997,Prostatitis,outcome
+729,732,4146239,Pruritus of genital organs,outcome
+729,732,4285569,Pupillary disorder,outcome
+729,732,81336,Rectal prolapse,outcome
+729,732,380395,Retinal dystrophy,outcome
+729,732,141825,Simple goiter,outcome
+729,732,137054,Skin striae,outcome
+729,732,434630,Sleep-wake schedule disorder,outcome
+729,732,4195698,Tenosynovitis,outcome
+729,732,4339088,Testicular mass,outcome
+729,732,133141,Tinea pedis,outcome
+729,732,440814,Torticollis,outcome
+729,732,435140,Toxic effect of alcohol,outcome
+729,732,4270490,Tracheitis,outcome
+729,732,4028970,Tracheobronchitis,outcome
+729,732,193326,Urge incontinence of urine,outcome
+729,732,4092565,Uterine prolapse,outcome
+729,732,140641,Verruca vulgaris,outcome
+729,732,197036,Vesicoureteric reflux,outcome
+729,732,261326,Viral pneumonia,outcome
